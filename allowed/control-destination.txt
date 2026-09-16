@@ -1,1 +1,2 @@
 COPILOT_RENAME_CONTROL_20260915
+reviewable=true
